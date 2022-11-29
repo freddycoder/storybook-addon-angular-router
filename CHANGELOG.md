@@ -1,3 +1,16 @@
+# v1.7.2 (Tue Nov 29 2022)
+
+#### ⚠️ Pushed to `main`
+
+- update vversion ([@freddycoder](https://github.com/freddycoder))
+- remove zone.js ([@freddycoder](https://github.com/freddycoder))
+
+#### Authors: 1
+
+- Frédéric Jacques ([@freddycoder](https://github.com/freddycoder))
+
+---
+
 # v1.7.1 (Tue Nov 29 2022)
 
 #### ⚠️ Pushed to `main`
