@@ -1,5 +1,5 @@
 {
-  "name": "storybook-addon-angular-router",
+  "name": "freddycoder-storybook-addon-angular-router",
   "version": "1.7.0",
   "description": "Addon to enable logging and mocking for the angular router in storybook",
   "keywords": [
