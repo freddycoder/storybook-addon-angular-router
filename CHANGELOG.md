@@ -1,3 +1,37 @@
+# v1.7.1 (Tue Nov 29 2022)
+
+#### ⚠️ Pushed to `main`
+
+- change the name to try a publish ([@freddycoder](https://github.com/freddycoder))
+- edit workflow trigger ([@freddycoder](https://github.com/freddycoder))
+- working on upgrade to angular 15 ([@freddycoder](https://github.com/freddycoder))
+- npm install ([@freddycoder](https://github.com/freddycoder))
+- Update dependencies ([@Jakob-em](https://github.com/Jakob-em))
+- Use activePath as url ([@Jakob-em](https://github.com/Jakob-em))
+- Support angular 13 ([@Jakob-em](https://github.com/Jakob-em))
+- Keep angular 11 compatibility ([@Jakob-em](https://github.com/Jakob-em))
+- Remove absolute version from peer deps ([@Jakob-em](https://github.com/Jakob-em))
+- Use parameter api ([@Jakob-em](https://github.com/Jakob-em))
+- Add documentation ([@Jakob-em](https://github.com/Jakob-em))
+- Remove icon from package.json ([@Jakob-em](https://github.com/Jakob-em))
+- Add tests to ci ([@Jakob-em](https://github.com/Jakob-em))
+- Add tests ([@Jakob-em](https://github.com/Jakob-em))
+- Upgrade storybook to 6.2.1 ([@Jakob-em](https://github.com/Jakob-em))
+- Add mdx example ([@Jakob-em](https://github.com/Jakob-em))
+- Fix storybook build warning ([@Jakob-em](https://github.com/Jakob-em))
+- Add missing dependencies ([@Jakob-em](https://github.com/Jakob-em))
+- Adjust build script ([@Jakob-em](https://github.com/Jakob-em))
+- initial implementation ([@Jakob-em](https://github.com/Jakob-em))
+- Update storybook to 6.1.21 ([@Jakob-em](https://github.com/Jakob-em))
+- Initial commit ([@Jakob-em](https://github.com/Jakob-em))
+
+#### Authors: 2
+
+- Frédéric Jacques ([@freddycoder](https://github.com/freddycoder))
+- Jakob ([@Jakob-em](https://github.com/Jakob-em))
+
+---
+
 # v1.6.0 (Fri Jul 01 2022)
 
 #### 🚀 Enhancement
