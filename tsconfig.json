@@ -8,10 +8,12 @@
     "sourceMap": true,
     "downlevelIteration": true,
     "experimentalDecorators": true,
-    "types": ["jest"],
+    "types": [
+      "jest"
+    ],
     "moduleResolution": "node",
     "importHelpers": true,
-    "target": "es2015",
+    "target": "ES2022",
     "module": "es2020",
     "lib": [
       "es2018",
@@ -19,7 +21,8 @@
     ],
     "declaration": true,
     "declarationMap": true,
-    "inlineSources": true
+    "inlineSources": true,
+    "useDefineForClassFields": false
   },
   "angularCompilerOptions": {
     "skipTemplateCodegen": true,
