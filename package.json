@@ -29,7 +29,7 @@
     "release": "npm run build && auto shipit"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "15.0.1",
+    "@angular-devkit/build-angular": "15.2.11",
     "@angular-devkit/core": "15.0.1",
     "@angular/cli": "15.0.1",
     "@angular/common": "15.0.1",
@@ -48,7 +48,7 @@
     "@storybook/addon-actions": "6.5.9",
     "@storybook/addon-controls": "6.5.9",
     "@storybook/addon-docs": "6.5.9",
-    "@storybook/angular": "6.5.9",
+    "@storybook/angular": "8.0.5",
     "@storybook/builder-webpack5": "6.5.9",
     "@storybook/manager-webpack5": "6.5.9",
     "@types/jest": "^28.1.4",
